@@ -1,0 +1,115 @@
+.logo{
+    width: 50%;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+.li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.icon{
+    display: inline-block;
+    height:20px;
+}
+.p12{
+    width:100%;
+    margin-top: 6%;
+}
+.box {
+        position: relative;
+        align-content: center;
+        margin-left: 10%;
+        margin-right: 10%;
+}
+.METI{
+    background-color:#83939B;
+    width: 10%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+}
+.p1234{
+    text-align: center;
+    padding-top: 15%;
+    color: #fff;
+}
+.boxmini{
+    background-color:#363E97;
+    height: 550px;
+}
+.boxmi{
+    background-color: white;
+    height: 300px;
+    float: left;
+    width: 40%;
+    margin-top: 4%;
+    margin-left:4%;
+    
+}
+.boxmi1{
+    background-color: white;
+    height: 300px;
+    float: right;
+    width: 40%;
+    margin-top: 4%;
+    margin-right: 4%;
+}
+.boxp{
+    text-align: center;
+    padding-top: 25%;
+}
+.qali{  
+    width: 27%;
+}
+.popo{
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.dopo{
+    width: 100%;
+    background-color: #E6E6E6;
+    height: 380px;
+}
+.popiti{
+    float: right;
+    width: 339px;
+    margin-top: 11%;
+}
+.kaci{  
+    width: 17%;
+    margin-left: 4%;
+}
+.basasa{
+    background-color: #fff;
+    float: right;
+    width: 35%;
+    height: 220px;
+    margin-right: 5%;
+}
+.h1{
+    text-align: center;
+    font-size: 22px;
+}
+.minibox{
+    background-color:#fff;
+    width: 35%;
+    float: left;
+    height: 220px;
+    margin-left: 5%;
+}
+.h2{
+    text-align: center;
+    font-size: 25px;
+}
+.qali{  
+    width: 22%;
+}
+.a123{
+    color: #363E97;
+}

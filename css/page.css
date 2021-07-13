@@ -34,7 +34,7 @@ margin:0 auto;
 .box{
     background-color:#E6E6E6;
     width: 100%;
-    height: 450px;
+    height:550px;
 }
 .poto{
     margin-left: auto;
@@ -88,9 +88,9 @@ margin:0 auto;
     float: left;
     height: 220px;
     margin-left: 5%;
-}
-.qali{  
-    width: 27%;
+} 
+.qali {
+        width: 23%;
 }
 
 
@@ -133,13 +133,13 @@ margin:0 auto;
     background-color: #E6E6E6;
     height: 380px;
 }
-.popiti{
+.popiti {
     float: right;
-    width: 339px;
-    margin-top: 11%;
+    width: 268px;
+    margin-top: 15%;
 }
 .kaci{  
-    width: 22%;
+    width:17%;
     margin-left: 4%;
 }
 .basasa{
@@ -168,17 +168,15 @@ margin:0 auto;
 .saba{
 	position:absolute;
 	margin-top:-10%;
-	margin-left:18%;
+	margin-left:22%;
 	font-size:25px;
 }
+
 .img{
-	height: 20%;
-	width: 70%;
-	background-position: center;
-}
-.img{
-	align-items:center;
-	margin-left:15%;
-	margin-bottom:2%;
-	margin-top:2%;
+	align-items: center;
+    margin-left: 19%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width: 59%;
+    margin-right: auto;
 }
