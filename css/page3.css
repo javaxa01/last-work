@@ -1,3 +1,4 @@
+
 .logo{
     width: 50%;
 }
@@ -15,53 +16,58 @@
     display: inline-block;
     height:20px;
 }
-.p12{
-    width:100%;
-    margin-top: 6%;
+.div{
+ background-color: #BDCCD4;
+ height: 90px;
+ width: 100%;
 }
-.box {
-        position: relative;
-        align-content: center;
-        margin-left: 10%;
-        margin-right: 10%;
-}
-.METI{
-    background-color:#83939B;
-    width: 10%;
-    height: 10%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4%;
-}
-.p1234 {
-    align-items: center;
-    margin-left: 22px;
-    /* margin-top: 169px; */
-    color: #fff;}
-.boxmini{
-    background-color:#363E97;
-    height: 550px;
-}
-.boxmi{
-    background-color: white;
-    height: 300px;
+.P12{
+    padding-top: 1%;
+    padding-left: 1%;
     float: left;
-    width: 40%;
-    margin-top: 4%;
-    margin-left:4%;
-    
 }
-.boxmi1{
-    background-color: white;
-    height: 300px;
+.p123{
     float: right;
-    width: 40%;
-    margin-top: 4%;
-    margin-right: 4%;
+    padding-top: 1%;
+    padding-right: 1%;
 }
-.boxp{
+.date{
+    border: 2px solid gray;
+    width: 4%;
+    height:50px;
     text-align: center;
-    padding-top: 25%;
+    padding-top:15px;
+    font-size: larger;
+}
+.time{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.txy{
+    margin-top: 2%;
+    width: 58%;
+    margin-left: 23%;
+}
+.txy1{
+    margin-top: 2%;
+    width:58%;
+    margin-left:2%; 
+}
+.raca{
+    margin-top: 2%;
+    margin-left: 2%;
+    width:58%;
+}
+.koko{
+    background-color:#BDCCD4;
+    height: 90px;
+    margin-top: 2%;
+    width: 100%;
+}
+.koko1{
+    margin-left:2%;
+    padding-top:40px;
+    
 }
 .qali{  
     width: 27%;
@@ -78,8 +84,9 @@
 }
 .popiti{
     float: right;
-    width: 339px;
-    margin-top: 11%;
+    width: 323px;
+    margin-top: 2%;
+    font-size: 14px;
 }
 .kaci{  
     width: 17%;
