@@ -1,0 +1,34 @@
+.logo{
+    width: 50%;
+}
+.flex{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.li{
+    display: inline-block;
+}
+.icon{
+    display: inline-block;
+    height: 14px;
+}
+.divbox{
+    height: 90px;
+    width: 100%;
+    background-color: red;
+}
+.divbox{
+    padding-top: 1%;
+    font-size:20px; 
+}
+.divmap{
+    background-color: gray;
+    width: 100%;
+    height: 200px;
+}
+.map{
+    margin:0;
+    margin-left:0;
+    margin-right:0;
+}
