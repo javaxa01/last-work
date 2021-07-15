@@ -32,3 +32,44 @@
     margin-left:0;
     margin-right:0;
 }
+
+    .input{
+        margin-left: 43%;
+        width: 400px;
+        padding-top:20px;
+        margin:auto;
+        box-sizing: border-box;
+        border: none;
+         border-bottom: 2px solid black;
+         background-color: #282828;
+         display: flex;
+         
+    }
+    input[type=button] {
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+.inpu1t{
+    background-color: blueviolet;
+    width: 100%;
+    height: 300px;
+}
+.sea{
+    display: flex;
+    margin-top: 1%;
+    justify-content: center;
+    width: 35%;
+    height: 45px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bottom{
+    float: right;
+    margin-right: 15%;
+}
