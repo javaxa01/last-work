@@ -120,3 +120,125 @@
 .a123{
     color: #363E97;
 }
+@media only screen and (max-width:1064px) {
+    .conteiner{
+        width: 1024px;
+        background-color: aqua;
+    }
+    .popiti {
+        float: right;
+        width: 272px;
+        margin-top: 2%;
+        font-size: 14px;
+    }
+    @media  (max-width:1020px){
+        .conteiner{
+            width: 768px;
+        }
+        .txy {
+            margin-top: 2%;
+            width: 77%;
+            margin-left: 23%;
+        }
+        .txy1 {
+            margin-top: 2%;
+            width: 97%;
+            margin-left: 2%;
+        }
+        .raca {
+            margin-top: 2%;
+            margin-left: 2%;
+            width: 98%;
+        }
+        .popiti {
+            float: right;
+            width: 207px;
+            margin-top: 2%;
+            font-size: 11px;
+        }
+        @media  (max-width:766px){
+.conteiner{
+    width: 425px;
+}
+.popiti {
+    float: right;
+    width: 278px;
+    margin-top: 2%;
+    font-size: 11px;
+}
+.minibox {
+    background-color: #fff;
+    width: 89%;
+    float: left;
+    height: 177px;
+    margin-left: 5%;
+}
+.basasa {
+    background-color: #fff;
+    float: right;
+    width: 90%;
+    height: 155px;
+    margin-right: 5%;
+}
+.basasa {
+    background-color: #fff;
+    float: right;
+    width: 90%;
+    height: 155px;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.dopo {
+    width: 100%;
+    background-color: #E6E6E6;
+    height: 474px;
+}
+@media  (max-width:423px){
+.conteiner{
+    width: 375px;
+}
+.li{
+    display: none;
+}
+.icon{
+    display: none;
+}
+.minibox {
+    background-color: #fff;
+    width: 89%;
+    float: left;
+    height: 186px;
+    margin-left: 5%;
+}
+.popiti {
+    float: right;
+    width: 258px;
+    margin-top: 2%;
+    font-size: 11px;
+}
+.basasa {
+    background-color: #fff;
+    float: right;
+    width: 90%;
+    height: 175px;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+@media  (max-width:370px){
+    .conteiner{
+        width: 320px;
+    }
+    .popiti {
+        float: right;
+        width: 221px;
+        margin-top: 2%;
+        font-size: 10px;
+    }
+    .date {
+        border: 2px solid gray;
+        width: 19%;
+        height: 50px;
+        text-align: center;
+        padding-top: 15px;
+        font-size: larger;
+    }

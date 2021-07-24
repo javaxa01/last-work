@@ -57,75 +57,234 @@
 .what{
     margin-top: 1%;
 }
-.Fourth-box{
-	background-color: #E6E6E6;
-	padding: 35px 0 30px 0;
+.dopo{
+    width: 100%;
+    background-color: #E6E6E6;
+    height: 380px;
 }
-.Fourth-box h1 {
-	font-size: 24px;
-	color: black;
-	font-family: 'Roboto', sans-serif;
-	display: inline-block;
+.popo{
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
-.Fourth-box h2 {
-	font-size: 24px;
-	color: black;
-	font-family: 'Roboto', sans-serif;
-	display: inline-block;
+.minibox{
+    background-color:#fff;
+    width: 35%;
+    float: left;
+    height: 220px;
+    margin-left: 5%;
+}
+.h2{
+    text-align: center;
+    font-size: 25px;
+}
+.h1{
+    text-align: center;
+    font-size: 22px;
+}
+.kaci{  
+    width: 17%;
+    margin-left: 4%;
+}
+.qali{  
+    width: 27%;
+}
+.popiti{
+    float: right;
+    width: 300px;
+    margin-top: 11%;
+}
+.basasa{
+    background-color: #fff;
+    float: right;
+    width: 35%;
+    height: 220px;
+    margin-right: 5%;
+}
+@media only screen and (max-width:1064px) {
+    .popo123{
+        width: 1024px;
+        background-color: aqua;
+    }
+	.popiti {
+		float: right;
+		width: 257px;
+		margin-top: 11%;
+	}
+	.basasa {
+		background-color: #fff;
+		float: right;
+		width: 35%;
+		height: 152px;
+		margin-right: 5%;
+	}
+	.minibox {
+		background-color: #fff;
+		width: 35%;
+		float: left;
+		height: 150px;
+		margin-left: 5%;
+	}
+	.dopo {
+		width: 100%;
+		background-color: #E6E6E6;
+		height: 284px;
+	}
+@media  (max-width:1020px){
+        .popo123{
+            width: 768px;
+        }
+		.compi-img {
+			padding: 22px;
+			border: 2px solid #EE4036;
+		}
+		.raket-img {
+			padding: 0px;
+			border: 2px solid #EE4036;
+		}
+		.isari-img {
+			padding: 0px;
+			border: 2px solid #EE4036;
+		}
+		.kaci12{
+			width: 90%;
+		}
+		.popiti {
+			float: right;
+			width: 192px;
+			margin-top: 4%;
+		}
+		@media  (max-width:766px){
+			.popo123{
+				width: 425px;
+			}
+			.isari-img {
+				width: 123px;
+				padding: 0px;
+				border: 2px solid #EE4036;
+			}
+			.compi-img {
+				padding: 22px;
+				border: 2px solid #EE4036;
+				width: 150px;
+			}
+			.raket-img{
+				width: 120px;
+				margin-left: 6%;
+			}
+			.child {
+				background-color: white;
+				padding: 15px 9px 15px 15px;
+				width: 47%;
+				margin-right: 2%;
+			}
+			.child {
+				background-color: white;
+				padding: 15px 9px 15px 15px;
+				width: 48%;
+				margin-right: 2%;
+			}
+			.minibox {
+				background-color: #fff;
+				width: 100%;
+				float: left;
+				height: 150px;
+				margin-left: 0%;
+			}
+			.popiti {
+				float: right;
+				width: 283px;
+				margin-top: 4%;
+			}
+			.basasa {
+				background-color: #fff;
+				width: 100%;
+				float: left;
+				height: 150px;
+				margin-top: 5%;
+				margin-left: 0%;
+			}
+			.qali {
+				width: 22%;
+			}
+			.li{
+				display: none;
+			}
+			.icon{
+				display:none;
+			}
+			@media  (max-width:420px){
+				.popo123{
+					width: 375px;;
+				}
+				.popiti {
+					float: right;
+					width: 264px;
+					margin-top: 4%;
+				}
+				.dopo {
+					width: 100%;
+					background-color: #E6E6E6;
+					height: 460px;
+				}
+				.popiti {
+					float: right;
+					width: 238px;
+					margin-top: 4%;
+				}
+				.basasa {
+					background-color: #fff;
+					width: 85%;
+					float: left;
+					height: 150px;
+					margin-top: 5%;
+					margin-left: 3%;
+				}
+				.minibox{
+						background-color: #fff;
+						width: 85%;
+						float: left;
+						height: 150px;
+						margin-top: 5%;
+						margin-left:3%;
+				}
+				.about-boxes{
+					display: flex;
+                    flex-wrap: wrap;
+                }
+				.what {
+					margin-top: 1%;
+					display: flex;
+					flex-wrap: wrap;
+				}
+				@media  (max-width:374px){
+				 .popo123{
+					 width: 320px;
+				 }
+				 .popo {
+					font-size: 23px;
+					padding-top: 30px;
+					padding-bottom: 30px;
+				}
+				.minibox {
+					background-color: #fff;
+					width: 95%;
+					float: left;
+					height: 150px;
+					margin-top: 5%;
+					margin-left: 3%;
+				}
+				.basasa{
+						background-color: #fff;
+						width: 95%;
+						float: left;
+						height: 150px;
+						margin-top: 5%;
+						margin-left: 3%;
 
-}
-.hh1:after{
-	content: '';
-	height: 24px;
-	width: 2px;
-	background-color: #000000;
-	margin: 0 10px;
-	display: inline-block;
-}
-.child{
-	background-color: white;
-	padding: 15px 9px 15px 15px;
-
-}
-.text{
-	font-size: 22px;
-	font-family: 'Roboto', sans-serif;
-	color: #333333;
-	width: 344px;
-}
-
-.white-box{
-	display: flex;
-	justify-content: space-between;
-	align-items: flex-start;
-
-}
-.white-box p {
-	width: 344px;
-}
-.read{
-	display: flex;
-	justify-content: flex-end;
-}
-.mshobeli h3{
-	color: #3D58A6;
-	font-size: 22px;
-	font-family: 'Roboto', sans-serif;
-	margin-bottom: 15px;
-
-}
-.titi{
-	margin-right: 55px;
-}
-.read{
-	font-size: 14px;
-	font-family: 'Roboto', sans-serif;
-	color: #3D58A6;
-}
-.mshobeli{
-	margin-top: 35px;
-}
-.footer{
-	height: 50px;
-	background-color: #fff;	
-}
+				}
+				.popiti {
+					float: right;
+					width: 214px;
+					margin-top: 4%;
+				}

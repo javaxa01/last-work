@@ -113,3 +113,212 @@
 .a123{
     color: #363E97;
 }
+.divikop{
+    background-color: #BDCCD4;
+     height: 700px;
+}
+@media only screen and (max-width:1064px) {
+    .conteiner{
+        width: 1024px;
+        background-color: aqua;
+    }
+    .saba {
+        position: absolute;
+        margin-top: -12%;
+        margin-left: 22%;
+        font-size: 20px;
+    }
+    .minibox {
+        background-color: #fff;
+        width: 35%;
+        float: left;
+        height: 160px;
+        margin-left: 5%;
+    }
+    .basasa{
+        background-color: #fff;
+        width: 35%;
+        float: right;
+        height: 160px;
+        margin-left: 5%;
+    }
+    .popiti {
+        float: right;
+        width: 252px;
+        margin-top: 11%;
+    }
+    .p1234 {
+        align-items: center;
+        margin-left: 6px;
+        /* margin-top: 169px; */
+        color: #fff;
+    }
+    }
+    @media  (max-width:1020px){
+        .conteiner{
+            width: 768px;
+        }
+        .divikop{
+            height: 500px;
+        }
+        .boxmini {
+            background-color: #363E97;
+            height: 400px;
+        }
+        .popiti {
+            float: right;
+            width: 196px;
+            margin-top:4%;
+        }
+        .minibox {
+            background-color: #fff;
+            width: 35%;
+            float: left;
+            height: 151px;
+            margin-left: 5%;
+        }
+        .qali {
+            width: 23%;
+            height: 96px;
+        }
+    .basasa{
+        background-color: #fff;
+            width: 35%;
+            float: right;
+            height: 151px;
+            margin-right:5%;
+    }
+    .dopo {
+        width: 100%;
+        background-color: #E6E6E6;
+        height: 278px;
+    }    
+    }
+    @media  (max-width:767px){
+        .conteiner{
+            width: 425px;
+        }
+        .divikop {
+            height: 330px;
+        }
+        .boxmi {
+            background-color: white;
+            height: 142px;
+            float: left;
+            width: 90%;
+            margin-top: 4%;
+            margin-left: 4%;
+            display: flex;
+            flex-wrap: nowrap;
+        }
+        .boxb {
+            background-color: #363E97;
+            height: 297px;
+            flex-wrap: wrap;
+            display: flex;
+        }
+        .boxmi1 {
+            background-color: white;
+            height: 120px;
+            float: right;
+            width: 90%;
+            margin-top: 4%;
+            margin-right: 6%;
+        }
+        .boxp {
+            /* padding-top: 9%; */
+            text-align: center;
+        }
+        .p1234 {
+            align-items: center;
+            margin-left: 0px;
+            /* margin-top: 169px; */
+            color: #fff;
+        }
+        .METI {
+            background-color: #83939B;
+            width: 20%;
+            height: 10%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 4%;
+        }
+        .boxmi {
+            background-color: white;
+            height: 120px;
+            float: left;
+            width: 90%;
+            margin-top: 4%;
+            margin-left: 4%;
+            display: flex;
+            flex-wrap: nowrap;
+        }
+        .boxmi1 {
+            background-color: white;
+            height: 120px;
+            float: right;
+            width: 90%;
+            margin-top: 4%;
+            margin-right:6%;
+            display: flex;
+            flex-wrap: nowrap;
+        }
+        .minibox {
+            background-color: #fff;
+            width: 90%;
+            float: left;
+            height: 151px;
+            margin-left: 5%;
+        }
+        .popiti {
+            float: right;
+            width: 292px;
+            margin-top: 4%;
+        }
+        .basasa {
+            background-color: #fff;
+            width: 90%;
+            float: right;
+            height: 151px;
+            margin-right: 5%;
+        }
+        .basasa {
+            background-color: #fff;
+            width: 90%;
+            float: right;
+            height: 151px;
+            margin-right: 5%;
+            margin-top: 6%;
+        }
+        .dopo {
+            width: 100%;
+            background-color: #E6E6E6;
+            height: 441px;
+        }
+        @media  (max-width:423px){
+.conteiner{
+    width: 375px;
+}
+.popiti {
+    float: right;
+    width: 263px;
+    margin-top: 7%;
+}
+@media  (max-width:374px){
+    .conteiner{
+        width:320px ;
+    }
+    .popiti {
+        float: right;
+        width: 225px;
+        margin-top: 7%;
+    }
+    .li{
+        display:none;
+    }
+    .icon{
+        display: none;
+    }
+    .divikop {
+        height: 288px;
+    }

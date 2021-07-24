@@ -180,3 +180,257 @@ margin:0 auto;
     width: 59%;
     margin-right: auto;
 }
+@media only screen and (max-width:1064px) {
+.conteiner{
+    width:1024px;
+    background-color: aqua;
+    
+}
+.saba {
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 22%;
+    font-size: 20px;
+}
+}
+@media  (max-width:1022px){
+    .conteiner{
+        width: 768px;
+
+    }
+    .saba {
+        position: absolute;
+        margin-top: -12%;
+        margin-left: 21%;
+        font-size: 14px;
+    }
+    .box-min1 {
+        float: right;
+        width: 37%;
+        height: 176px;
+        background-color: wheat;
+        margin-top: 2%;
+        margin-right: 5%;
+    }
+    .box-min {
+        float: left;
+        width: 37%;
+        height: 176px;
+        background-color: wheat;
+        margin-top: 2%;
+        margin-left: 5%;
+    }
+    .boxb {
+        background-color: #363E97;
+        height: 300px;
+    }
+    .mako0 {
+        background-color: #BDCCD4;
+        width: 100%;
+        height: 240px;
+        flex-wrap: nowrap;
+    }
+    .mako12 {
+        width: 18%;
+        display: inline-block;
+        margin-left: 5%;
+        align-items: center;
+        margin-top: 5%;
+        flex-wrap: nowrap;
+    }
+    .popiti {
+        float: right;
+        width: 196px;
+        margin-top:4%;
+    }
+    .minibox {
+        background-color: #fff;
+        width: 35%;
+        float: left;
+        height: 151px;
+        margin-left: 5%;
+    }
+    .qali {
+        width: 23%;
+        height: 96px;
+    }
+.basasa{
+    background-color: #fff;
+        width: 35%;
+        float: right;
+        height: 151px;
+        margin-right:5%;
+}
+.dopo {
+    width: 100%;
+    background-color: #E6E6E6;
+    height: 278px;
+}    
+
+@media  (max-width:764px){
+.conteiner{
+    width: 425px;
+}
+.box{
+    width: 100%;
+}
+.saba {
+    position: absolute;
+    margin-top: -19%;
+    margin-left: 6%;
+    font-size: 14px;
+}
+.box-min {
+    float: left;
+    width: 63%;
+    height: 120px;
+    background-color: wheat;
+    margin-top: 2%;
+    margin-left: 5%;
+    flex-wrap: nowrap;
+}
+.boxb {
+    background-color: #363E97;
+    height: 297px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.box {
+    background-color: #E6E6E6;
+    /* width: 100%; */
+    height: 188px;
+}
+.img {
+    align-items: center;
+    margin-left: 0%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width: 100%;
+    margin-right: auto;
+}
+.box-min {
+    float: left;
+    width: 68%;
+    height: 120px;
+    background-color: wheat;
+    margin-top: 8%;
+    margin-left: -12%;
+    flex-wrap: nowrap;
+}
+.box-min1 {
+    float: right;
+    width: 68%;
+    height: 120px;
+    background-color: wheat;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.mako{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.mako12 {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 0%;
+    padding-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mako0 {
+    background-color: #BDCCD4;
+    width: 100%;
+    height: 330px;
+    flex-wrap: nowrap;
+}
+.minibox {
+    background-color: #fff;
+    width: 90%;
+    float: left;
+    height: 160px;
+    margin-left: 5%;
+    flex-wrap: nowrap;
+}
+.popiti {
+    float: right;
+    width: 278px;
+    margin-top: 4%;
+}
+.dopo {
+    width: 100%;
+    background-color: #E6E6E6;
+    height: 450px;
+}
+.basasa {
+    background-color: #fff;
+    width: 90%;
+    float: right;
+    height: 151px;
+    margin-right: 5%;
+    flex-wrap: nowrap;
+    margin-top: 6%;
+}
+
+}
+@media  (max-width:420px){
+    .conteiner{
+        width: 375px;
+    }
+    .box-min {
+        float: left;
+        width: 68%;
+        height: 120px;
+        background-color: wheat;
+        margin-top: 8%;
+        margin-left: -14%;
+        flex-wrap: nowrap;
+    }
+    .box-min1 {
+        float: right;
+        width: 68%;
+        height: 120px;
+        background-color: wheat;
+        margin-top: 2%;
+        margin-left: 17%;
+    }
+    .popiti {
+        float: right;
+        width: 248px;
+        margin-top: 7%;
+    }
+    @media  (max-width:374px){
+        .conteiner{
+            width: 320px;
+        }
+        .box {
+            background-color: #E6E6E6;
+            /* width: 100%; */
+            height: 132px;
+        }
+        .saba {
+            position: absolute;
+            margin-top: -28%;
+            margin-left: 4%;
+            font-size: 14px;
+        }
+        .box-min {
+            float: left;
+            width: 68%;
+            height: 120px;
+            background-color: wheat;
+            margin-top: 8%;
+            margin-left: -19%;
+            flex-wrap: nowrap;
+        }
+        .mako0 {
+            background-color: #BDCCD4;
+            width: 100%;
+            height: 248px;
+            flex-wrap: nowrap;
+        }
+        .popiti {
+            float: right;
+            width: 212px;
+            margin-top: 7%;
+        }
