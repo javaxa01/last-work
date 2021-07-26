@@ -19,7 +19,7 @@
 .div1{
     background-color: red;
     width: 100%;
-    height: 90px;
+    height:60px;
 }
 .diviko{
     background-color: red;
@@ -89,10 +89,13 @@
 .qali{  
     width: 27%;
 }
-.popiti{
+.popiti {
     float: right;
-    width: 300px;
-    margin-top: 11%;
+    width: 73%;
+    margin-top: 6%;
+    font-size: 27px;
+    text-align: center;
+    margin-right: 0%;
 }
 .basasa{
     background-color: #fff;
@@ -101,6 +104,10 @@
     height: 220px;
     margin-right: 5%;
 }
+.what {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
 @media only screen and (max-width:1064px) {
     .popo123{
         width: 1024px;
@@ -108,8 +115,11 @@
     }
 	.popiti {
 		float: right;
-		width: 257px;
-		margin-top: 11%;
+		width: 73%;
+		margin-top: 6%;
+		font-size: 19px;
+		text-align: center;
+		margin-right: 0%;
 	}
 	.basasa {
 		background-color: #fff;
@@ -130,6 +140,7 @@
 		background-color: #E6E6E6;
 		height: 284px;
 	}
+
 @media  (max-width:1020px){
         .popo123{
             width: 768px;
@@ -150,10 +161,13 @@
 			width: 90%;
 		}
 		.popiti {
-			float: right;
-			width: 192px;
-			margin-top: 4%;
-		}
+            float: right;
+            width: 73%;
+            margin-top: 5%;
+            font-size: 16px;
+            text-align: center;
+            margin-right: 0%;
+        }
 		@media  (max-width:766px){
 			.popo123{
 				width: 425px;
@@ -193,8 +207,11 @@
 			}
 			.popiti {
 				float: right;
-				width: 283px;
-				margin-top: 4%;
+				width: 78%;
+				margin-top: 5%;
+				font-size: 16px;
+				text-align: center;
+				margin-right: 0%;
 			}
 			.basasa {
 				background-color: #fff;
@@ -219,8 +236,11 @@
 				}
 				.popiti {
 					float: right;
-					width: 264px;
-					margin-top: 4%;
+					width: 78%;
+					margin-top: 5%;
+					font-size: 16px;
+					text-align: center;
+					margin-right: 0%;
 				}
 				.dopo {
 					width: 100%;
@@ -285,6 +305,9 @@
 				}
 				.popiti {
 					float: right;
-					width: 214px;
-					margin-top: 4%;
+					width: 78%;
+					margin-top: 5%;
+					font-size: 16px;
+					text-align: center;
+					margin-right: 0%;
 				}

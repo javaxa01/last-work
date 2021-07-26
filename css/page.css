@@ -83,11 +83,11 @@ margin:0 auto;
     padding-top: 12%;
 }
 .minibox{
-    background-color:#fff;
-    width: 35%;
-    float: left;
-    height: 220px;
-    margin-left: 5%;
+        background-color: #fff;
+        float: right;
+        width: 35%;
+        height: 220px;
+        margin-right: 10%;
 } 
 .qali {
         width: 23%;
@@ -123,10 +123,15 @@ margin:0 auto;
     text-align: center;
     font-size: 25px;
 }
-.popo{
+.popo {
     font-size: 28px;
     padding-top: 30px;
     padding-bottom: 30px;
+    margin-left: 2%;
+}
+.li{
+    display: inline-block;
+    margin-right: 20px;
 }
 .dopo{
     width: 100%;
@@ -135,19 +140,23 @@ margin:0 auto;
 }
 .popiti {
     float: right;
-    width: 268px;
-    margin-top: 15%;
+    width: 76%;
+    margin-top: 6%;
+    font-size: 27px;
+    text-align: center;
+    margin-right: 0%;
 }
+
 .kaci{  
     width:17%;
     margin-left: 4%;
 }
-.basasa{
+.basasa {
     background-color: #fff;
-    float: right;
+    float: left;
     width: 35%;
     height: 220px;
-    margin-right: 5%;
+    margin-left: 10%;
 }
 .h1{
     text-align: center;
@@ -180,6 +189,7 @@ margin:0 auto;
     width: 59%;
     margin-right: auto;
 }
+
 @media only screen and (max-width:1064px) {
 .conteiner{
     width:1024px;
@@ -191,6 +201,14 @@ margin:0 auto;
     margin-top: -12%;
     margin-left: 22%;
     font-size: 20px;
+}
+.popiti {
+    float: right;
+    width: 77%;
+    margin-top: 6%;
+    font-size: 24px;
+    text-align: center;
+    margin-right: 0%;
 }
 }
 @media  (max-width:1022px){
@@ -240,8 +258,11 @@ margin:0 auto;
     }
     .popiti {
         float: right;
-        width: 196px;
-        margin-top:4%;
+        width: 77%;
+        margin-top: 6%;
+        font-size: 17px;
+        text-align: center;
+        margin-right: 0%;
     }
     .minibox {
         background-color: #fff;
